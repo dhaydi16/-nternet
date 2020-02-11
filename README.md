@@ -1,6 +1,6 @@
 # Internet
 İnternet nasıl çalışır?
-
+<br/><h1>1</h1>
 <a href="https://medium.com/bili%C5%9Fim-hareketi/i%CC%87nternet-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-96f9d52d7724">İnternet Nasıl Çalışır?-Ali Sabri Sır</a>
 <br/>->İnter(arasında) ve net(Ağ) anlamı Ağlar arasında demektir.
 <br/>->İnternete bağlanma süreci. (Ağların ağı)
@@ -17,5 +17,11 @@
 <br/><b>İnternet Protokolü</b>
 <br/>IP Adresi:bilgisayarın kimliği
 <br/>DNS:DNS, Ip adreslerini akılda tutamadığımız için IP adreslerinin isimlerinin metinlerini otomatik olarak adresleyen DNS (Domain Name <br/>System-Alan Adı Sistemi)’i yarattık. Bu yolla belli bir yere bağlanmak için IP adresi yerine sadece www.google.com yazmamız yeterli oldu.
-
-
+<br/><h1>2</h1>
+<br/><a href="https://tutorial.djangogirls.org/tr/how_the_internet_works/">İnternet Nasıl Çalışır-djangogirls</a> 
+<br/><h1>3</h1>
+<br/>
+<br/><a href="https://www.youtube.com/watch?v=jVsUOiBzu7o&list=PLh9ECzBB8tJMKXMd8ovXR8TmQeaVtz5-l">Şadi Evren Şeker-Video</a>
+<br/><a href="http://sadievrenseker.com/wp/?page_id=1179">Şadi Evren Şeker-Not</a>
+<br/>
+<br/>Physics of Networks: Signals, Fiber optics
