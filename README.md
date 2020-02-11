@@ -17,3 +17,4 @@ Router: Bir bilgisayardan diğerine aktarılacak verinin hangi yoldan hedefe ula
 <b>İnternet Protokolü</b>
 IP Adresi:bilgisayarın kimliği
 DNS:DNS, Ip adreslerini akılda tutamadığımız için IP adreslerinin isimlerinin metinlerini otomatik olarak adresleyen DNS (Domain Name System-Alan Adı Sistemi)’i yarattık. Bu yolla belli bir yere bağlanmak için IP adresi yerine sadece www.google.com yazmamız yeterli oldu.
+d
